@@ -56,8 +56,8 @@ Berikut adalah sampel 5 baris pertama (`df_cek.head()`) dari total **155 baris d
 ---
 
 # Berkas & Presentasi
-- 📑 **Slide Presentasi**: Berkas presentasi PowerPoint dapat diakses melalui link berikut: [`presentasi.pptx`](./presentasi.pptx) *(sesuaikan nama file PPT kamu)*.
-- 🐍 **Source Code**: Kode sumber Python tersedia di file script `.py` / `.ipynb` di repository ini.
+- Slide Presentasi: Berkas presentasi PowerPoint dapat diakses ada di repository ini.
+- Source Code : Kode sumber Python tersedia di file script .ipynb di repository ini.
 
 ---
 
